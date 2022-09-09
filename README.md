@@ -30,4 +30,4 @@ Simply install Dynamic Autoclicker and run it. *Sadly, Only for Windows :(*
 ## Safety
 
 **Dynamic Autoclicker is flagged by some Anti-Viruses!**
-- My guess is that ``some anti-viruses`` don't like the autoclicker because of the ``DLL embedder`` I used.
+- My guess is that ``some anti-viruses`` don't like the autoclicker because of the ``DLL embedder`` I used. **This is a false-positive**
